@@ -93,7 +93,6 @@ var l_musicPlaylist = [
 	{ogg: "songs/1.ogg", name: "Survival-eminem"},
 	{ogg: "songs/2.ogg", name: "Pentagon-BlackOps"},
 	{ogg: "songs/3.ogg", name: "GTA 4 Theme"},
-	{ogg: "songs/N.ogg", name: "N.E.R.D"},
 	{ogg: "songs/6.ogg", name: "No type Remix"}
    
 ];
