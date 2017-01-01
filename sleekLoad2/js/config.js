@@ -103,7 +103,7 @@ var l_musicRandom = true;
 
 /*Music volume
 Choose a value between 0 and 100*/
-var l_musicVolume = 5;
+var l_musicVolume = 1;
 
 /*Enable custom messages?*/
 var l_messagesEnabled = true;
@@ -114,7 +114,7 @@ var l_messages = [
 "Thanks for joining us!",
 "The server is in DEV bare with us", 
 "I will DDOS the Microwave",
-"!donate in chat to help out the server"
+"Donate in order to receive cool perks and jobs!"
 
 
 ];
